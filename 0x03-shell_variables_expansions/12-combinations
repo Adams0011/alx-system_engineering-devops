@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {*o aa..zz}
+echo {*o {aa..zz}}
